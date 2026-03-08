@@ -4,13 +4,14 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>CHI 2025 Publications</title>
+  <title>Oceania CHI 2026 Publications</title>
 
   <!-- Fonts & CSS -->
   <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
   <link rel="stylesheet" href="assets/css/font-awesome.css" />
   <link rel="stylesheet" href="assets/css/tooplate-artxibition.css" />
+  <link rel="stylesheet" href="assets/css/oceania-chi.css">
 
   <style>
     mark {
@@ -37,14 +38,16 @@
       <div class="row">
         <div class="col-12">
           <nav class="main-nav">
-            <a href="index.html" class="logo"><img src="assets/images/LogoV1.png" alt="Oceania@CHI Logo" style="height: 80px;"></a>
+            <a href="index.html" class="logo"><img src="assets/images/logo_horizontal.png" alt="Oceania@CHI Logo"
+                style="height: 80px;"></a>
             <ul class="nav">
-              <li><a href="index.html" >Home</a></li>
+              <li><a href="index.html">Home</a></li>
               <li><a href="publications.html" class="active">Publications</a></li>
-              <li><a href="event.html" >Oceania@CHI Event</a></li>
+              <!-- <li><a href="event.html">Oceania@CHI Event</a></li> -->
               <li><a href="labs.html">Participating Labs</a></li>
-            
-          </ul>   
+              <li><a href="regionalevent.html">Regional Events</a></li>
+
+            </ul>
             <a class='menu-trigger'><span>Menu</span></a>
           </nav>
         </div>
@@ -53,49 +56,56 @@
   </header>
 
   <!-- Search and Filter -->
-  <section style="padding: 60px 0;">
-    <div class="container">
-      <h2 class="text-center mb-4">Publications</h2>
-      <div class="row mb-4">
-        <div class="col-md-9">
-          <input type="text" id="searchInput" class="form-control" placeholder="Search by title, author or affliation..." />
+  <main>
+    <section style="padding: 60px 0;">
+      <div class="container">
+        <h2 class="text-center mb-4"><strong>Publications</strong></h2>
+        <div class="row mb-4">
+          <div class="col-md-9">
+            <input type="text" id="searchInput" class="form-control"
+              placeholder="Search by title, author or affliation..." />
+          </div>
+          <div class="col-md-3">
+            <select id="filterCategory" class="form-control">
+              <option value="">All Categories</option>
+              <option value="Full Paper">Full Paper</option>
+              <option value="Workshop">Workshop</option>
+              <option value="Case Studies">Case Studies</option>
+              <option value="Video Showcase">Video Showcase</option>
+              <option value="Interactivity">Interactivity</option>
+              <option value="Late-Breaking Work">Late-Breaking Work</option>
+            </select>
+          </div>
         </div>
-        <div class="col-md-3">
-          <select id="filterCategory" class="form-control">
-            <option value="">All Categories</option>
-            <option value="Full Paper">Full Paper</option>
-            <option value="Workshop">Workshop</option>
-            <option value="Case Studies">Case Studies</option>
-            <option value="Video Showcase">Video Showcase</option>
-            <option value="Interactivity">Interactivity</option>
-            <option value="Late-Breaking Work">Late-Breaking Work</option>
-          </select>
-        </div>
-      </div>
 
-      <div class="row mb-4">
-        <div class="col-md-12">
-          <p style="margin-top: -10px;">
-            Your publication is missing? Send us an email: xinyan.yu@sydney.edu.au
-          </p>
+        <div class="row mb-4">
+          <div class="col-md-12">
+            <p style="margin-top: -10px;">
+              Your publication is missing? Send us an
+              <a class="text-button"
+                href="mailto:parth.bhargava@sydney.edu.au?subject=Oceania%20CHI%20Publication%20Missing">
+                email
+              </a>.
+            </p>
+          </div>
         </div>
-      </div>
 
-      <div id="publicationList" class="row"></div>
-    </div>
-  </section>
+        <div id="publicationList" class="row"></div>
+      </div>
+    </section>
+  </main>
 
   <!-- Footer -->
   <footer>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12 text-center">
-          <p class="copyright">
-            &copy; 2025 ANZ @ CHI. Design based on <a href="https://www.tooplate.com" target="_blank">Tooplate</a>.
-          </p>
-        </div>
-      </div>
-    </div>
+    <!-- <div class="container"> -->
+    <!--   <div class="row"> -->
+    <!--     <div class="col-lg-12 text-center"> -->
+    <!--       <p class="copyright"> -->
+    <!--         &copy; 2026 ANZ @ CHI. Design based on <a href="https://www.tooplate.com" target="_blank">Tooplate</a>. -->
+    <!--       </p> -->
+    <!--     </div> -->
+    <!--   </div> -->
+    <!-- </div> -->
   </footer>
 
   <!-- Scripts -->
@@ -105,102 +115,126 @@
   <!-- Dynamic Publications Loader -->
   <script>
     let publications = [];
-  
+
     // Load JSON data
     async function loadPublications() {
       try {
-        const res = await fetch('publications.json');
+        const res = await fetch('publications_new.json');
         publications = await res.json();
         renderPublications();
       } catch (error) {
-        console.error("Error loading publications:", error);
+        document.getElementById("publicationList").innerHTML = `
+          <div class="col-12 text-left" style="margin-top:40px;">
+            <h4>Coming Soon</h4>
+            <br/>
+            <p>
+              Publications from the Oceania HCI community accepted to
+              <strong>CHI 2026</strong> will appear here once the official
+              conference program is released.
+            </p>
+          </div>
+        `;
       }
     }
-  
+
     // Highlight matched text
     function highlight(text, keyword) {
       if (!keyword) return text;
       const regex = new RegExp(`(${keyword})`, 'gi');
       return text.replace(regex, '<mark>$1</mark>');
     }
-  
+
     // Render filtered + highlighted publications
     function renderPublications() {
-        const searchTerm = document.getElementById('searchInput').value.toLowerCase();
-  const filterCategory = document.getElementById('filterCategory').value;
+      const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+      const filterCategory = document.getElementById('filterCategory').value;
 
-  const container = document.getElementById('publicationList');
-  container.innerHTML = '';
+      const container = document.getElementById('publicationList');
+      container.innerHTML = '';
 
-  const filtered = publications.filter(pub => {
-    const matchText = `${pub.title} ${pub.authors.join(', ')}`.toLowerCase();
-    const matchesSearch = matchText.includes(searchTerm);
-    const matchesCategory = !filterCategory || pub.category === filterCategory;
-    return matchesSearch && matchesCategory;
-  });
+      const filtered = publications.filter(pub => {
+        const matchText = `${pub.title} ${pub.authors.join(', ')}`.toLowerCase();
+        const matchesSearch = matchText.includes(searchTerm);
+        const matchesCategory = !filterCategory || pub.category === filterCategory;
+        return matchesSearch && matchesCategory;
+      });
 
-  if (filtered.length === 0) {
-    container.innerHTML = `<div class="col-12"><p>No results found.</p></div>`;
-    return;
-  }
+      if (filtered.length === 0 && publications.length === 0) {
+        container.innerHTML = `
+          <div class="col-12 text-left" style="margin-top:40px;">
+            <h4>Coming Soon</h4>
+            <p>
+              The publication list will be available once the
+              <strong>CHI 2026 program</strong> is released.
+            </p>
+          </div>`;
+        return;
+      }
 
-  // Group by category
-  const grouped = {};
-  filtered.forEach(pub => {
-    if (!grouped[pub.category]) {
-      grouped[pub.category] = [];
-    }
-    grouped[pub.category].push(pub);
-  });
+      if (filtered.length === 0) {
+        container.innerHTML = `
+          <div class="col-12 text-center">
+            <p>No publications match your search.</p>
+          </div>`;
+        return;
+      }
+      // Group by category
+      const grouped = {};
+      filtered.forEach(pub => {
+        if (!grouped[pub.category]) {
+          grouped[pub.category] = [];
+        }
+        grouped[pub.category].push(pub);
+      });
 
-  // Define desired order
-  const categoryOrder = ['Full Paper', 'Late-Breaking Work'];
+      // Define desired order
+      const categoryOrder = ['Full Paper', 'Late-Breaking Work'];
 
-  // Render in order
-  categoryOrder.forEach(category => {
-    if (grouped[category]) {
-      container.innerHTML += `<div class="col-12"><h4 class="mt-5 mb-3">${category}</h4></div>`;
-      grouped[category].forEach(pub => {
-        container.innerHTML += `
+      // Render in order
+      categoryOrder.forEach(category => {
+        if (grouped[category]) {
+          container.innerHTML += `<div class="col-12"><h4 class="mt-5 mb-3">${category}</h4></div>`;
+          grouped[category].forEach(pub => {
+            container.innerHTML += `
           <div class="col-md-6 mb-4">
-            <div class="p-3 border rounded bg-white shadow-sm">
+            <div class="publication-card">
               <h5>${highlight(pub.title, searchTerm)}</h5>
               <p><strong>Category:</strong> ${pub.category}</p>
               <p><strong>Authors:</strong> ${highlight(pub.authors.join(', '), searchTerm)}</p>
               <a href="${pub.link}" target="_blank" class="text-button">View Paper <i class="fa fa-arrow-right"></i></a>
             </div>
           </div>`;
+          });
+          delete grouped[category]; // Avoid re-rendering
+        }
       });
-      delete grouped[category]; // Avoid re-rendering
-    }
-  });
 
-  // Render the rest of the categories
-  for (const category in grouped) {
-    container.innerHTML += `<div class="col-12"><h4 class="mt-5 mb-3">${category}</h4></div>`;
-    grouped[category].forEach(pub => {
-      container.innerHTML += `
+      // Render the rest of the categories
+      for (const category in grouped) {
+        container.innerHTML += `<div class="col-12"><h4 class="mt-5 mb-3">${category}</h4></div>`;
+        grouped[category].forEach(pub => {
+          container.innerHTML += `
         <div class="col-md-6 mb-4">
-          <div class="p-3 border rounded bg-white shadow-sm">
+          <div class="publication-card">
             <h5>${highlight(pub.title, searchTerm)}</h5>
             <p><strong>Category:</strong> ${pub.category}</p>
             <p><strong>Authors:</strong> ${highlight(pub.authors.join(', '), searchTerm)}</p>
             <a href="${pub.link}" target="_blank" class="text-button">View Paper <i class="fa fa-arrow-right"></i></a>
           </div>
         </div>`;
-    });
-  }
-}
+        });
+      }
+    }
 
-  
+
     // Add event listeners
     document.getElementById('searchInput').addEventListener('input', renderPublications);
     document.getElementById('filterCategory').addEventListener('change', renderPublications);
-  
+
     // Initial load
     loadPublications();
   </script>
-  
+
 
 </body>
 
