@@ -1,0 +1,142 @@
+/* Colour scheme as variables */
+:root {
+  --ocean-blue: #1e3a8a;
+  --pacific-teal: #1ca7a6;
+  --terracotta: #c24a2a;
+  --mosaic-yellow: #f2b705;
+  --coral: #f26457;
+  --sand: #f4e3c1;
+}
+
+/* Dark overlay on banner for text visibility */
+.main-banner::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6); /* darkness level */
+  z-index: 1;
+}
+.main-banner * {
+  position: relative;
+  z-index: 2;
+}
+
+/* Background colour with gradient */
+/* body { */
+/*   background: linear-gradient(180deg, white 0%, var(--sand) 100%); */
+/* } */
+
+/* Bold colour using a class and the strong tag */
+.highlight-stat {
+  color: var(--ocean-blue);
+  font-weight: 600;
+}
+
+strong {
+  color: var(--ocean-blue);
+  font-weight: 600;
+}
+h4 strong {
+  color: inherit;
+}
+.text-black {
+  color: #000 !important;
+}
+
+/* Heading vertical bar colour */
+.section-heading-with-bar::before {
+  background-color: var(--terracotta);
+}
+
+/* Active nav bar colour */
+.header-area .main-nav .nav li:hover a,
+.header-area .main-nav .nav li a.active {
+  color: var(--pacific-teal) !important;
+  opacity: 1;
+}
+
+.header-area .main-nav .nav li a.active:after {
+  background-color: var(--pacific-teal);
+}
+
+.background-header .main-nav .nav li:hover a,
+.background-header .main-nav .nav li a.active {
+  color: var(--pacific-teal) !important;
+}
+
+/* Publications card styling */
+.publication-card {
+  background: white;
+  border-radius: 12px;
+  padding: 22px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.15s ease;
+  height: 100%;
+}
+
+.publication-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.08);
+}
+
+.publication-title {
+  font-weight: 600;
+  color: var(--ocean-blue);
+}
+
+.publication-category {
+  display: inline-block;
+  background: var(--terracotta);
+  color: white;
+  font-size: 12px;
+  padding: 4px 10px;
+  border-radius: 6px;
+  margin-bottom: 10px;
+}
+#publicationList h4 {
+  color: var(--ocean-blue);
+  font-weight: 700;
+  border-left: 4px solid var(--terracotta);
+  padding-left: 10px;
+}
+
+/* Colour for text urls */
+/* Force override for publication links */
+a.text-button,
+.text-button a,
+.feature-item .right-content a.text-button {
+  color: var(--pacific-teal) !important;
+}
+
+a.text-button:hover,
+.text-button a:hover,
+.feature-item .right-content a.text-button:hover {
+  color: var(--terracotta) !important;
+}
+
+.text-button a {
+  transition: color 0.2s ease;
+}
+
+.text-button i {
+  transition:
+    transform 0.2s ease,
+    color 0.2s ease;
+}
+
+/* Main flex wrapper to push footer down when less content */
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
