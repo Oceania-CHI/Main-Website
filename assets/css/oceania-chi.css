@@ -8,6 +8,14 @@
   --sand: #f4e3c1;
 }
 
+/* Non transparent background logo spillover fix */
+.logo img {
+  height: 100%;
+  max-height: 60px; /* adjust to match navbar */
+  width: auto;
+  object-fit: contain;
+}
+
 /* Dark overlay on banner for text visibility */
 .main-banner::before {
   content: "";
