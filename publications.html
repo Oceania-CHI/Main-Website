@@ -119,7 +119,7 @@
     // Load JSON data
     async function loadPublications() {
       try {
-        const res = await fetch('publications_new.json');
+        const res = await fetch('publications.json');
         publications = await res.json();
         renderPublications();
       } catch (error) {

@@ -1,0 +1,1514 @@
+[
+  {
+    "title": "CardioCommXR: Training Empathy Through Gamified Emotional Regulation",
+    "category": "Student Game Competition",
+    "sessionTime":"Tue, 29 Apr | 2:10 PM - 2:10 PM",
+    "authors": [
+      "Andreia Valente (The University of Auckland)",
+      "Mark Billinghurst (University of South Australia)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194070"
+  },
+  {
+    "title": "AccessibleShip: Exploring Packaging and Shipping Barriers for Visually Impaired Users in C2C E-Commerce",
+    "category": "Case Studies",
+    "authors": [
+      "Kunal Gupta (The University of Auckland)",
+      "Ken Takaki",
+      "Ayaka Tsutsui",
+      "Kentaro Teramoto",
+      "Bektur Ryskeldiev"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188544"
+  },
+  {
+    "title": "Exploring Emotional Memory Encoding and Recall in Virtual Reality",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Kunal Gupta (The University of Auckland)",
+      "Samhar Aeron (The University of Auckland)",
+      "Jamila Abouelenin (The University of Auckland)",
+      "Jiuzhou Zhao (The University of Auckland)",
+      "Yun Suen Pai (The University of Auckland)",
+      "Mark Billinghurst (The University of Auckland)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194517"
+  },
+  {
+    "title": "Factually: A Live, Wearable Fact-Checker",
+    "category": "Video Showcase",
+    "authors": [
+      "Michelle Wu (The University of Auckland)",
+      "Praveen Sasikumar",
+      "Chitralekha Gupta",
+      "Shreyas Sridhar",
+      "Priambudi Lintang Bagaskara",
+      "Suranga Nanayakkara"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194700"
+  },
+  {
+    "title": "Precision Email Simulator for Research on Safety-Critical Phishing Behaviour",
+    "category": "Full Paper",
+    "authors": [
+      "Sijie Zhuo (The University of Auckland)",
+      "Robert Biddle (The University of Auckland)",
+      "Giovanni Russello (The University of Auckland)",
+      "Danielle Lottridge (The University of Auckland)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/1893"
+  },
+  {
+    "title": "Surveillance on Exhibit: Using Problematic Technology To Teach About Problematic Technology",
+    "category": "Full Paper",
+    "authors": [
+      "Ethan Plaut (The University of Auckland)",
+      "Kiri West (The University of Auckland)",
+      "Fabio Morreale (The University of Auckland)",
+      "Maya Gibson (The University of Auckland)",
+      "Grace Thompson (The University of Auckland)",
+      "Kara Woodward (The University of Auckland)",
+      "Danielle Lottridge (The University of Auckland)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188387"
+  },
+  {
+    "title": "\"Can I have my friend attending with me?\": Design Implications for Using Virtual Supporters in Remote Psychotherapy",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Jiashuo Cao (The University of Auckland)",
+      "Yun Suen Pai (The University of Auckland)" ,
+      "Chen Li",
+      "Simon Hoermann (University of Canterbury)",
+      "Mark Billinghurst (The University of Auckland)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194661"
+  },
+  {
+    "title": "Digital technology for supporting Aged Care Services: A Scoping Review",
+    "category": "Full Paper",
+    "authors": [
+      "Yansen Theopilus (Swinburne University of Technology)",
+      "Hilary Davis (Swinburne University of Technology)",
+      "Sonja Pedell (Swinburne University of Technology)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/189563"
+  },
+  {
+    "title": "Placing Practice and Expertise at the Center of Explainable AI: A Participatory Design Approach to Explainable AI for Enterprise Information Architects",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Lufan Zhang (Swinburne University of Technology)",
+      "Paul Scifleet (Swinburne University of Technology)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194500"
+  },
+  {
+    "title": "Classifying Presence Scores: Insights and Analysis from Two Decades of the Igroup Presence Questionnaire (IPQ)",
+    "category": "Full Paper",
+    "authors": [
+      "Tanh Quang Tran (University of Otago)",
+      "Tobias Langlotz (University of Otago)",
+      "Jacob Young (University of Otago)",
+      "Thomas Schubert",
+      "Holger Regenbrecht (University of Otago)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188416"
+  },
+  {
+    "title": "Virtual Voyages: Evaluating the Role of Real-Time and Narrated Virtual Tours in Shaping User Experience and Memories",
+    "category": "Full Paper",
+    "authors": [
+      "Lillian Maria Eagan (University of Otago)",
+      "Jacob Young (University of Otago)",
+      "Jesse Bering (University of Otago)",
+      "Tobias Langlotz (University of Otago)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188843"
+  },
+  {
+    "title": "Addressing Impostor Phenomenon in Collaboration Between User Experience Designers and Software Developers\n\n",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Senfa Sun (Victoria University of Wellington)"
+      
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194219"
+  },
+  {
+    "title": "Explaining Differential Involvement in Cross-Movement Coalitions on Social Media: the #StopHateForProfit Campaign\n\n\n",
+    "category": "Full Paper",
+    "authors": [
+      "Jean-Gr\u00e9goire Bernard (University of Canterbury)",
+      "Markus Luczak-Roesch",
+      "Yevgeniya Li (Victoria University of Wellington)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188602"
+  },
+  {
+    "title": "The Brain Knows What You Prefer: Using EEG to Decode AR Input Preferences",
+    "category": "Full Paper",
+    "authors": [
+      "Kaining Zhang (University of South Australia)",
+      "Theophilus Teo (University of South Australia)",
+      "Eunhee Chang (University of South Australia)",
+      "Xianglin Zheng (University of South Australia)",
+      "Allison Jing (RMIT University)",
+      "Mark Billinghurst (University of South Australia)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/189299"
+  },
+  {
+    "title": "Sharing Facial Cues at Different Target Positions to Support Virtual Collaboration",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Theophilus Teo (University of South Australia)",
+      "ChenKai Zhang (University of South Australia)",
+      "Heesook Shin (University of South Australia)",
+      "Youn-Hee Gil",
+      "Gun A. Lee (University of South Australia)" ,
+      "Allison Jing (RMIT University)",
+      "Michael Frederick",
+      "Yongho Lee",
+      "Mark Billinghurst"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194035"
+  },
+  {
+    "title": "Strollytelling: Coupling Animation with Physical Locomotion to Explore Immersive Data Stories",
+    "category": "Full Paper",
+    "authors": [
+      "Radhika Pankaj Jain (University of South Australia)",
+      "Kadek Ananta Satriadi (Monash University)",
+      "Andrew Cunningham (University of South Australia)",
+      "Adam Drogemuller (University of South Australia)",
+      "Ross Smith (University of South Australia)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188981"
+  },
+  {
+    "title": "Understanding VR Accessibility Practices of VR Professionals",
+    "category": "Full Paper",
+    "authors": [
+      "Yi Wang (Deakin University)",
+      "Xiao Liu (Deakin University)",
+      "Chetan Arora (Monash University)",
+      "John Grundy (Monash University)",
+      "Thuong Hoang (Deakin University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/189358"
+  },
+  {
+    "title": "A Musical Tension and Release Framework for Sonic Interaction Designers",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Minsik Choi (Australian National University)",
+      "Alexander Hunter (Australian National University)",
+      "Josh Andres (Australian National University)",
+      "Charles Patrick Martin (Australian National University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194406"
+  },
+  {
+    "title": "AI See, You See: Human-AI Musical Collaboration in Augmented Reality",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Yichen Wang (Australian National University)",
+      "Charles Patrick Martin (Australian National University)"
+    ],
+    "link": ""
+  },
+  {
+    "title": "Can Augmented Reality Head-Mounted Display Exergames Support the Management of Multiple Sclerosis at Home? Workshop Discussions with Researchers and Experts with Lived Experience of MS",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Michelle Adiwangsa",
+      "Penny Sweetser",
+      "Hanna Suominen"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194255"
+  },
+  {
+    "title": "One Game, One Experience: Shared-Control Mechanisms for Cross-Platform Multiplayer Games",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Yuechen Liu (Australian National University)",
+      "Anne Ozdowska (Australian National University)",
+      "Penny Sweetser (Australian National University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194687"
+  },
+  {
+    "title": "Snap, Sweat, and Sketch: Designing Home Exercise Experiences for Augmented Reality Head-mounted Displays",
+    "category": "Full Paper",
+    "authors": [
+      "Michelle Adiwangsa (Australian National University)",
+      "Hanna Suominen (Australian National University)",
+      "Penny Sweetser (Australian National University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188254"
+  },
+  {
+    "title": "Exploring Place-Belongingness through Magic Machine Workshops in Refugee Communities",
+    "category": "Full Paper",
+    "authors": [
+      "Pinyao Song (The University of Queensland)",
+      "Aparna Hebbani (The University of Queensland)",
+      "Dhaval Vyas (The University of Queensland)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188482"
+  },
+  {
+    "title": "Household Wattch: Exploring Opportunities for Surveillance and Consent through Families\u2019 Household Energy Use Data\n\n\n",
+    "category": "Full Paper",
+    "authors": [
+      "Stephen Snow (The University of Queensland)",
+      "Awais Hameed Khan (The University of Queensland)",
+      "Kaleb Day (The University of Queensland)",
+      "Ben Matthews (The University of Queensland)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188299"
+  },
+  {
+    "title": "Impact of Visual Embellishments on Player Experience in Virtual Reality Exergames",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Suki Yuanxin Zhang (The University of Queensland)",
+      "R. Achintha M. Abayasiri (The University of Queensland)",
+      "Yanzhuo Yang (The University of Queensland)",
+      "Hai-Ning Liang",
+      "Wenge Xu",
+      "Nilufar Baghaei (The University of Queensland)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194098"
+  },
+  {
+    "title": "Patient Handover in the Emergency Department Is Not Just a Point Event: Insights for Designing Information Support Tools",
+    "category": "Full Paper",
+    "authors": [
+      "Aloha Hufana Ambe (The University of Queensland)",
+      "Isaac Salisbury (The University of Queensland)",
+      "Tobias Grundgeiger",
+      "Daniel Bodnar (Royal Brisbane and Women's Hospital)",
+      "Sean Rothwell (Royal Brisbane and Women's Hospital)",
+      "Nathan Brown (Royal Brisbane and Women's Hospital)",
+      "Penelope Sanderson (The University of Queensland)",
+      "Ben Matthews (The University of Queensland)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188736"
+  },
+  {
+    "title": "Housing Diversity Means Diverse Housing\u201d: Blending Generative AI into Speculative Design in Rural Co-Housing Communities",
+    "category": "Full Paper",
+    "authors": [
+      "Hongyi Tao (The University of Queensland)",
+      "Dhaval Vyas (The University of Queensland)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188555"
+  },
+  {
+    "title": "Raising Awareness of Location Information Vulnerabilities in Social Media Photos using LLMs",
+    "category": "Full Paper",
+    "authors": [
+      "Ying Ma (The University of Melbourne)",
+      "Shiquan Zhang (The University of Melbourne)",
+      "Dongju Yang (The University of Melbourne)",
+      "Zhanna Sarsenbayeva (The University of Sydney)",
+      "Jarrod Knibbe (The University of Queensland)",
+      "Jorge Goncalves (The University of Melbourne)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188729"
+  },
+  {
+    "title": "Responsibility Attribution in Human Interactions with Everyday AI Systems",
+    "category": "Full Paper",
+    "authors": [
+      "Joe Brailsford (The University of Melbourne)",
+      "Frank Vetere (The University of Melbourne)",
+      "Eduardo Velloso (The University of Sydney)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/189113"
+  },
+  {
+    "title": "\"It\u2019s Not the AI\u2019s Fault Because It Relies Purely on Data\": How Causal Attributions of AI Decisions Shape Trust in AI Systems",
+    "category": "Full Paper",
+    "authors": [
+      "Saumya Pareek (The University of Melbourne)",
+      "Sarah Sch\u00f6m\u00df (The University of Melbourne)",
+      "Eduardo Velloso (The University of Sydney)",
+      "Jorge Goncalves (The University of Melbourne)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/189223"
+  },
+  {
+    "title": "A Novel Method for Trust-Sensitive Design: Applying Conjoint Analysis to Machine-Assisted Genome Annotation",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Melanie McGrath (The University of Melbourne)",
+      "Patrick Cooper (CSIRO)",
+      "Andreas Duenser (CSIRO)",
+      "Jessica Irons (CSIRO)",
+      "Xiaomei Li (CSIRO)",
+      "Rad Suchecki (CSIRO)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194646"
+  },
+  {
+    "title": "Assessing Susceptibility Factors of Confirmation Bias in News Feed Reading",
+    "category": "Full Paper",
+    "authors": [
+      "Nattapat Boonprakong (The University of Melbourne)",
+      "Saumya Pareek (The University of Melbourne)",
+      "Benjamin Tag (University of New South Wales)",
+      "Jorge Goncalves (The University of Melbourne)",
+      "Tilman Dingler"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/189225"
+  },
+  {
+    "title": "Beyond the Enforcer: Exploring Metaphors for Alternative AI Moderation in Online Games",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Ren Galway (The University of Melbourne)",
+      "Lucy A. Sparrow (The University of Melbourne)",
+      "Mahli-Ann Butt (The University of Melbourne)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194061"
+  },
+  {
+    "title": "Can you pass that tool?: Implications of Indirect Speech in Physical Human-Robot Collaboration",
+    "category": "Full Paper",
+    "authors": [
+      "Yan Zhang (The University of Melbourne)",
+      "Tharaka Sachintha Ratnayake (The University of Melbourne)",
+      "Cherie Sew (The University of Melbourne)",
+      "Jarrod Knibbe (The University of Queensland)",
+      "Jorge Goncalves (The University of Melbourne)",
+      "Wafa Johal (The University of Melbourne)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188722"
+  },
+  {
+    "title": "Designing Embodied Agents for Impactful Human-Centred Risk Communication",
+    "category": "Doctoral Consortium",
+    "authors": [
+      "Sarah Sch\u00f6mbs (The University of Melbourne)"
+     
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/189320"
+  },
+  {
+    "title": "How Do HCI Researchers Study Cognitive Biases? A Scoping Review",
+    "category": "Full Paper",
+    "authors": [
+      "Nattapat Boonprakong (The University of Melbourne)",
+      "Benjamin Tag (University of New South Wales)",
+      "Jorge Goncalves (The University of Melbourne)",
+      "Tilman Dingler"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188918"
+  },
+  {
+    "title": "Illusion Spaces in VR: The Interplay Between Size and Taper Angle Perception in Grasping",
+    "category": "Full Paper",
+    "authors": [
+      "Jian Zhang (The University of Melbourne)",
+      "Wafa Johal (The University of Melbourne)",
+      "Jarrod Knibbe (The University of Melbourne)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/189057"
+  },
+  {
+    "title": "Meaningful Engagement, Ethical Care, and Design Opportunities: An Ethnographic Study on Social Activities in Long-term Care",
+    "category": "Full Paper",
+    "authors": [
+      "Shuai Yuan (The University of Melbourne)",
+      "Simon Coghlan (The University of Melbourne)",
+      "Reeva Lederman (The University of Melbourne)",
+      "Jenny Waycott (The University of Melbourne)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188734"
+  },
+  {
+    "title": "MindfulReframer: A Virtual Reality System for Managing Exam Anxiety Through Cognitive Reappraisal",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Huiyi Liang (Monash University)",
+      "Yi Li (Monash University)",
+      "Benjamin Tag (University of New South Wales)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194238"
+  },
+  {
+    "title": "Modeling Higher-order Human Beliefs Using the Justified Perspective Model",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Wanchun Li (The University of Melbourne)",
+      "Chenyuan Zhang (Monash University)",
+      "Weijia Li (The University of Melbourne)",
+      "Guang Hu (The University of Melbourne)",
+      "Yangmengfei Xu (The University of Melbourne)"
+      
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194785"
+  },
+  {
+    "title": "The Influence of Content Modality on Perceptions of Online Misinformation",
+    "category": "Full Paper",
+    "authors": [
+      "Suwani Gunasekara (The University of Melbourne)",
+      "Saumya Pareek (The University of Melbourne)",
+      "Ryan M. Kelly (RMIT University)",
+      "Jorge Goncalves (The University of Melbourne)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188942"
+  },
+  {
+    "title": "User Willingness to Engage with AI-Generated Influencer Content",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Cherie Sew (The University of Melbourne)",
+      "Ryan M. Kelly (RMIT University)",
+      "Sarah Sch\u00f6mbs (The University of Melbourne)",
+      "Jorge Goncalves (The University of Melbourne)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194142"
+  },
+  {
+    "title": "vARtebrae: Enhanced Visuo-haptic Feedback for Spinal Mobilization Training employing Mechanical Metamaterials and Extended Reality",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Kiichiro Tatsuzawa (The University of Melbourne)",
+      "Jo Eann Chong (The University of Melbourne)",
+      "Qiting Ma (The University of Melbourne)",
+      "Jessica Stander (The University of Melbourne)",
+      "Arzoo Atiq (The University of Melbourne)",
+      "Jiayi Wu (The University of Melbourne)",
+      "Wenyuan Wu (The University of Melbourne)",
+      "David Kelly (The University of Melbourne)",
+      "Alireza Mohammadi (The University of Melbourne)",
+      "D. Antony Chacon (The University of Melbourne)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194290"
+  },
+  {
+    "title": "\"It\u2019s Not the AI\u2019s Fault Because It Relies Purely on Data\": How Causal Attributions of AI Decisions Shape Trust in AI Systems",
+    "category": "Full Paper",
+    "authors": [
+      "Saumya Pareek (The University of Melbourne)",
+      "Sarah Sch\u00f6mbs (The University of Melbourne)",
+      "Eduardo Velloso (The University of Sydney)",
+      "Jorge Goncalves (The University of Melbourne)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/189223"
+  },
+  {
+    "title": "Affective Interactions in Therapeutic Virtual Reality: A Critical Perspective",
+    "category": "Full Paper",
+    "authors": [
+      "Naseem Ahmadpour (The University of Sydney)",
+      "Jenny Waycott (The University of Melbourne)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/189105"
+  },
+  {
+    "title": "Co-designing a conversational generative artificial intelligence system for youth mental health",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Adam Poulsen (The University of Sydney)",
+      "Ian Hickie (The University of Sydney)",
+      "Zsofi de Haan (The University of Sydney)",
+      "William Capon (The University of Sydney)",
+      "Haley M LaMonica (The University of Sydney)",
+      "Ebenezer Eyeson-Annan (Uncapt)",
+      "Jalal Radwan (Uncapt)",
+      "Nia Barnabie (Uncapt)",
+      "Elizabeth M. Scott (The University of Sydney)",
+      "Frank Iorfino (The University of Sydney)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194248"
+  },
+  {
+    "title": "Designing an Immersive Wildfire Visualization System for Firefighters",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Carlos Alfredo Tirado Cortes (The University of Sydney)",
+      "Mario Flores Gonzalez (University of New South Wales)",
+      "Richard J. Hurley (CSIRO)",
+      "Dennis Del Favero (University of New South Wales)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194765"
+  },
+  {
+    "title": "Enhancing Autonomous Vehicle-Pedestrian Interaction in Shared Spaces: The Impact of Intended Path-Projection",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Le Yue (The University of Sydney)",
+      "Tram Thi Minh Tran (The University of Sydney)",
+      "Xinyan Yu (The University of Sydney)",
+      "Marius Hoggenm\u00fcller (The University of Sydney)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194310"
+  },
+  {
+    "title": "Doraemon\u2019s Gadget Lab: Unpacking Human Needs and Interaction Design in Speculative Technology",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Tram Thi Minh Tran (The University of Sydney)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194275"
+  },
+  {
+    "title": "Estimating the Effects of Encumbrance and Walking on Mixed Reality Interaction",
+    "category": "Full Paper",
+    "authors": [
+      "Tinghui Li (The University of Sydney)",
+      "Eduardo Velloso (The University of Sydney)",
+      "Anusha Withana (The University of Sydney)",
+      "Zhanna Sarsenbayeva (The University of Sydney)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188605"
+  },
+  {
+    "title": "Ethical Reflexivity Canvas: Resourcing Ethical Sensitivity for HCI Educators",
+    "category": "Full Paper",
+    "authors": [
+      "Naseem Ahmadpour (The University of Sydney)",
+      "Ajit G. Pillai (The University of Sydney)",
+      "Wendy Qi Zhang (The University of Sydney)",
+      "Lian Loke (The University of Sydney)",
+      "Thida Sachathep (The University of Sydney)",
+      "Zhaohua Zhou (The University of Sydney)",
+      "Phillip Gough (The University of Sydney)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188236"
+  },
+  {
+    "title": "Exploring Trust and Transparency in Retrieval-Augmented Generation for Domain Experts",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Divya Ravi (The University of Sydney)",
+      "Renuka Sindhgatta"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194284"
+  },
+  {
+    "title": "From Everyday Technologies to Augmented Reality: An Autoethnographic Study of Presence and Engagement",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Tram Thi Minh Tran (The University of Sydney)",
+      "-"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194089"
+  },
+  {
+    "title": "Juggling Extra Limbs: Identifying Control Strategies for Supernumerary Multi-Arms in Virtual Reality",
+    "category": "Full Paper",
+    "authors": [
+      "Hongyu Zhou (The University of Sydney)",
+      "Tom Kip (The University of Sydney)",
+      "Yihao Dong (The University of Sydney)",
+      "Andrea Bianchi",
+      "Zhanna Sarsenbayeva (The University of Sydney)",
+      "Anusha Withana (The University of Sydney)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188531"
+  },
+  {
+    "title": "Peek into the `White-Box': A Field Study on Bystander Engagement with Urban Robot Uncertainty",
+    "category": "Full Paper",
+    "authors": [
+      "Xinyan Yu (The University of Sydney)",
+      "Marius Hoggenm\u00fcller (The University of Sydney)",
+      "Tram Thi Minh Tran (The University of Sydney)",
+      "Yiyuan Wang (The University of Sydney)",
+      "Qiuming Zhang (The University of Sydney)",
+      "Martin Tomitsch (University of Technology Sydney)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188829"
+  },
+  {
+    "title": "Simulation-based FABO first-aid Education: A Scoping Review",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Jiaxi Wang (The University of Sydney)",
+      "Soojeong Yoo (The University of Sydney)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194442"
+  },
+  {
+    "title": "Spatial Heterogeneity in Distributed Mixed Reality Collaboration",
+    "category": "Full Paper",
+    "authors": [
+      "Emily Wong (The University of Sydney)",
+      "Ad\u00e9la\u00efde Genay (The University of Melbourne)",
+      "Jens Emil Sloth Gr\u00f8nb\u00e6k",
+      "Eduardo Velloso (The University of Sydney)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188646"
+  },
+  {
+    "title": "The Future of Rest: A More-Than-Human Manifesto",
+    "category": "Full Paper",
+    "authors": [
+      "Kristina Mah (The University of Sydney)",
+      "Evgenii A Timofeev (The University of Melbourne)",
+      "Janghee Cho"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188794"
+  },
+  {
+    "title": "Theorising in HCI using Causal Models",
+    "category": "Full Paper",
+    "authors": [
+      "Eduardo Velloso (The University of Sydney)",
+      "Kasper Hornb\u00e6k"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/189328"
+  },
+  {
+    "title": "Towards Clinical Practice Reflection Based on Repurposed Administrative Data: Qualitative Study of Physicians and Surgeons",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Bernard Bucalon (The University of Sydney)",
+      "Chris J Williams",
+      "Jeanette C Conley",
+      "Martin Veysey (Australian National University)",
+      "Tim Shaw (The University of Sydney)",
+      "Judy Kay (The University of Sydney)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194154"
+  },
+  {
+    "title": "Wearable AR in Everyday Contexts: Insights from a Digital Ethnography of YouTube Videos",
+    "category": "Full Paper",
+    "authors": [
+      "Tram Thi Minh Tran (The University of Sydney)",
+      "Shane Brown (Contextual)",
+      "Oliver Weidlich (Contextual)",
+      "Soojeong Yoo (The University of Sydney)",
+      "Callum Parker (The University of Sydney)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188408"
+  },
+  {
+    "title": "This Journey is Never Truly Over, For the Ball I Carry is Always Moving\": Future Obituaries and End-of-Life First Design",
+    "category": "Full Paper",
+    "authors": [
+      "Jaydon Farao",
+      "Ajit G. Pillai (The University of Sydney)",
+      "Hafeni Mthoko",
+      "Marly Muudeni Samuel",
+      "Manar Atwa",
+      "Shaimaa Lazem"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188774"
+  },
+  {
+    "title": "\u201cThey\u2019re Scamming Me\u201d: How Children Experience and Conceptualize Harm in Game Monetization",
+    "category": "Full Paper",
+    "authors": [
+      "Taylor Hardwick (The University of Sydney)",
+      "Marcus Carter (The University of Sydney)",
+      "Stephanie Harkin (RMIT University)",
+      "Tianyi Zhangshao (The University of Sydney)",
+      "Ben Egliston (The University of Sydney)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/189068"
+  },
+  {
+    "title": "More Than \u2018ticking-a-box\u2019: The Affordances of Short-form Video for Community Reporting to Government",
+    "category": "Full Paper",
+    "authors": [
+      "Tom Bartindale",
+      "Cassandra Cleever (Monash University)",
+      "Claire Moran (Monash University)",
+      "Margherita Angelucci (Monash University)",
+      "Delvin Varghese (Monash University)",
+      "Patrick Olivier (Monash University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188878"
+  },
+  {
+    "title": "AlphaPIG: The Nicest Way to Prolong Interactive Gestures in XR",
+    "category": "Full Paper",
+    "authors": [
+      "Yi Li (Monash University)",
+      "Tim Dwyer (Monash University)",
+      "Florian Fischer",
+      "Barrett Ens",
+      "Robert Crowther",
+      "Per Ola Kristensson",
+      "Benjamin Tag (University of New South Wales)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188412"
+  },
+  {
+    "title": "Exploring the Needs of Practising Musicians in Co-Creative AI Through Co-Design",
+    "category": "Full Paper",
+    "authors": [
+      "Stephen James Krol (Monash University)",
+      "Miguel J Loor Paredes (Monash University)",
+      "Maria Teresa Llano Rodriguez"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/189222"
+  },
+  {
+    "title": "The Sky is the Limit: Understanding How Generative AI can Enhance Screen Reader Users\u2019 Experience with Productivity Applications",
+    "category": "Full Paper",
+    "authors": [
+      "Minoli Perera (Monash University)",
+      "Cagatay Goncu (Monash University)",
+      "Swamy Ananthanarayan (Monash University)",
+      "Kim Marriott (Monash University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188567"
+  },
+  {
+    "title": "Sensing Movement: Contemporary Dance Workshops with People who are Blind or have Low Vision and Dance Teachers",
+    "category": "Full Paper",
+    "authors": [
+      "Madhuka de Silva (Monash University)",
+      "Jim Smiley (Monash University)",
+      "Sarah Goodwin (Monash University)",
+      "Leona Holloway (Monash University)",
+      "Matt Butler (Monash University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188305"
+  },
+  {
+    "title": "Enhancing Tactile Learning: A Co-Designed System for Supporting Speech Interaction with Multi-Part 3D Printed Models by Students who are Blind",
+    "category": "Full Paper",
+    "authors": [
+      "Ruth Nagassa (Monash University)",
+      "Matt Butler (Monash University)",
+      "Leona Holloway (Monash University)",
+      "Skye de Vent (Monash University)",
+      "Kalin Stefanov (Monash University)",
+      "Kim Marriott (Monash University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/189614"
+  },
+  {
+    "title": "3D Printing for Accessible Education: A Case Study in Assistive Technology Adoption",
+    "category": "Full Paper",
+    "authors": [
+      "Leona M Holloway (Monash University)",
+      "Matt Butler (Monash University)",
+      "Alex Waddell (Monash University)",
+      "Kim Marriott (Monash University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188357"
+  },
+  {
+    "title": "\"It Brought the Model to Life\": Exploring the Embodiment of Multimodal I3Ms for People who are Blind or have Low Vision",
+    "category": "Full Paper",
+    "authors": [
+      "Samuel Reinders (Monash University)",
+      "Matt Butler (Monash University)",
+      "Kim Marriott (Monash University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188320"
+  },
+  {
+    "title": "WALKING THE FUTURE\nBRIDGING FOOT AUGMENTATION INTO NEXT STEPS OF HUMAN AUGMENTATION",
+    "category": "Workshop",
+    "authors": [
+      "Nihar Sabnis",
+  "Dennis Wittchen",
+  "Ata Otaran",
+  "Fatima Badmos",
+  "Siyi Liu (Monash University)",
+  "Aryan Saini (Monash University)",
+  "Georg Regal",
+  "Vincent van Rheden",
+  "Florian ‘Floyd’ Mueller (Monash University)",
+  "Suranga Nanayakkara",
+  "Denys J.C. Matthies",
+  "Troy Nachtigall"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/189447"
+  },
+  {
+    "title": "Advancing Post-growth HCI",
+    "category": "Workshop",
+    "authors": [
+      "Vishal Sharma",
+      "Hongjin Lin",
+      "Asra Sakeen Wani",
+      "Jared Lee Katzman",
+      "Anupriya Tuli",
+      "Naveena Karusala",
+      "Shaowen Bardzell",
+      "Christoph Becker",
+      "Martin Tomitsch (University of Technology Sydney)",
+      "Neha Kumar"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188477"
+  },
+
+  {
+    "title": "Affective interaction and affective computing - past, present and future",
+    "category": "Workshop",
+    "authors": [
+      "Naseem Ahmadpour (The University of Sydney)",
+      "Danielle Lottridge",
+      "Jonas Fritsch",
+      "Corina Sas",
+      "Marta E. Cecchinato",
+      "Daniel Harrison",
+      "Kristina Höök",
+      "Pin Sym Foong",
+      "Kiran Ijaz (The University of Sydney)",
+      "Phillip Gough (The University of Sydney)",
+      "Yidan Cao (The University of Sydney)",
+      "Xuefei Li (The University of Sydney)",
+      "Shaimaa Lazem",
+      "Thida Sachathep (The University of Sydney)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/189477"
+  },
+
+  {
+    "title": "Scaling Distributed Collaboration in Mixed Reality",
+    "category": "Workshop",
+    "authors": [
+      "Adélaïde Genay (University of Melbourne)",
+  "Brandon Victor Syiem (University of Sydney)",
+  "Emily Wong (University of Melbourne, University of Sydney)",
+  "Tiare Feuchtner",
+  "Jarrod Knibbe (University of Queensland)",
+  "Jens Emil Sloth Grønbæk",
+  "Eduardo Velloso (University of Sydney)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188746"
+  },
+
+  {
+    "title": "The Third Workshop on Building an Inclusive and Accessible Metaverse for All",
+    "category": "Workshop",
+    "authors": [
+      "Callum Parker (University of Sydney)",
+      "Soojeong Yoo (The University of Sydney)",
+      "Joel Fredericks (The University of Sydney)",
+      "Tram Thi Minh Tran (The University of Sydney)",
+      "Mark Colley",
+      "Youngho Lee",
+      "Khanh-Duy Le",
+      "Simon Stannus",
+      "Woon­tack Woo",
+      "Mark Billinghurst (University of South Australia)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/189600"
+  },
+
+
+  {
+    "title": "Weaving Indigeneity and Culture into the Fabric of HCI Futures",
+    "category": "Workshop",
+    "authors": [
+      "Jaydon Farao",
+  "Hafeni Mthoko",
+  "Houda Elmimouni",
+  "Ajit G. Pillai (The University of Sydney)",
+  "Marly Muudeni Samuel",
+  "Shaimaa Lazem"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/189444"
+  },
+
+  {
+    "title": "Technology Mediated Caregiving For Older Adults Aging in Place",
+    "category": "Workshop",
+    "authors": [
+      "Elizabeth D Mynatt",
+  "Masatomo Kobayashi",
+  "Alisha Pradhan",
+  "Niharika Mathur",
+  "John Vines",
+  "Katie Seaborn",
+  "Erin Buehler",
+  "Jenny Waycott (The University of Melbourne)",
+  "John Rudnik",
+  "Tamara Zubatiy",
+  "Agata Rozga"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/190358"
+  },
+
+
+
+  {
+    "title": "Designed & Discovered Euphoria: Insights from Trans-Femme Players' Experiences of Gender Euphoria in Video Games",
+    "category": "Full Paper",
+    "authors": [
+      "Shano Liang",
+      "Michelle V Cormier (Monash University)",
+      "Rose Bohrer",
+      "Phoebe O. Toups Dugas (Monash University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188924"
+  },
+  {
+    "title": "This Game SUX: Why & How to Design Sh@*!y User Experiences",
+    "category": "Full Paper",
+    "authors": [
+      "Michelle V Cormier (Monash University)",
+  "Shano Liang",
+  "Bill Hamilton",
+  "Nicolas LaLone",
+  "Rose Bohrer",
+  "Phoebe O. Toups Dugas (Monash University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188486"
+  },
+  {
+    "title": "Mobile Maps Continue to Fail Pedestrians: Synthesised Reflective Auto-Aggro-Ethnographies of Walking",
+    "category": "Full Paper",
+    "authors": [
+      "Phoebe O. Toups Dugas (Monash University)",
+      "Bhavani Seetharaman",
+      "Rebecca J. Fleming (Monash University)",
+      "Shano Liang",
+      "Don Samitha Elvitigala (Monash University)",
+      "Jennifer Rode",
+      "Nicolas LaLone"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188809"
+  },
+  {
+    "title": "GestureSock: Exploring toe gestures as alternative input method",
+    "category": "Video Showcase",
+    "authors": [
+      "Vincent van Rheden",
+      "Sasindu Abewickrema (Monash University)",
+      "Florian ‘Floyd’ Mueller (Monash University)",
+      "Don Samitha Elvitigala (Monash University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194078"
+  },
+  {
+    "title": "BreathCrunch and BellyBreath: Exploring EMS-based Breath Guidance and Enforcement for Meditation and Running",
+    "category": "Interactivity",
+    "authors": [
+      "Vincent van Rheden",
+  "Siyi Liu (Monash University)",
+  "HONG LUO (Monash University)",
+  "Don Samitha Elvitigala (Monash University)",
+  "Florian ‘Floyd’ Mueller (Monash University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194441"
+  },
+  {
+    "title": "Towards Understanding Interactive Sonic Gastronomy with Chefs and Diners",
+    "category": "Full Paper",
+    "authors": [
+      "Hongyue Wang (Monash University)",
+      "Linjia He (Monash University)",
+      "Jialin Deng (Monash University)",
+      "Nathalie Overdevest (Monash University)",
+      "Ryan Wee (Monash University)",
+      "Yan Wang (Monash University)",
+      "Phoebe Toups Dugas (Monash University)",
+      "Don Samitha Elvitigala (Monash University)",
+      "Floyd Mueller"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/189134"
+  },
+  {
+    "title": "PlantMate: A Bidirectional Touch-Based System for Enhancing Human-Plant Empathy and Pro-Environmental Behavior",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "HONG LUO (Monash University)",
+      "Tuomas Kari",
+      "Rakesh Patibanda ≈",
+      "Maria Fernanda Montoya ≈",
+      "Josh Andres (The Australian National University)",
+      "Don Samitha Elvitigala (Monash University)",
+      "Florian ‘Floyd’ Mueller (Monash University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194604"
+  },
+  {
+    "title": "Outstanding Dissertation (10 minute talk): 3D printing for access to graphics by touch readers",
+    "category": "Awards Session",
+    "authors": [
+      "Leona Holloway (Monash University)",
+      "Supervisors Matthew Butler and Kim Marriott "
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/191725"
+  },
+  {
+    "title": "GastroConcerto: Towards Designing Auditory Dining System to Enrich Chefs\u2019 Culinary Practices\n",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Hongyue Wang (Monash University)",
+  "Jialin Deng",
+  "Dehui Kong",
+  "Ziqi Fang",
+  "HONG LUO (Monash University)",
+  "Nandini Pasumarthy (RMIT University)",
+  "Rakesh Patibanda (Monash University)",
+  "Sasindu Abewickrema (Monash University)",
+  "Xiao Zoe Fang",
+  "Don Samitha Elvitigala (Monash University)",
+      "Florian \u2018Floyd\u2019 Mueller (Monash University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194502"
+  },
+  {
+    "title": "immersiTea: Exploring Multisensory Virtual Reality Environments to Enrich Bubble Tea Drinking Experiences",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Yuchen Zheng",
+      "Jialin Deng",
+      "Hongyue Wang (Monash University)",
+      "Florian \u2018Floyd\u2019 Mueller (Monash University)",
+      "Xueni Pan",
+      "Marco Fyfe Pietro Gillies"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194480"
+  },
+  {
+    "title": "Sonic Delights: Exploring the Design of Food as An\n Auditory-Gustatory Interface",
+    "category": "Full Paper",
+    "authors": [
+      "Jialin Deng (Monash University)",
+      "Yinyi Li (Monash University)",
+      "Hongyue Wang (Monash University)",
+      "Ziqi Fang",
+      "Florian \u2018Floyd\u2019 Mueller (Monash University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/189277"
+  },
+  {
+    "title": "Flytrap Hand: Towards Understanding Dark Patterns of Physical Augmentation via Electrical Muscle Stimulation",
+    "category": "Video Showcase",
+    "authors": [
+      "Siyi Liu (Monash University)",
+  "Barrett Ens (Monash University)",
+  "Nathan Arthur Semertzidis (Monash University)",
+  "Gun A. Lee (University of South Australia)",
+  "Florian ‘Floyd’ Mueller (Monash University)",
+  "Don Samitha Elvitigala (Monash University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194666"
+  },
+  {
+    "title": "\u201cMy Happiness Makes You Smile\u201d: Towards Understanding Telepathic Superpower Design via Brain-Muscle Interfaces",
+    "category": "Video Showcase",
+    "authors": [
+      "Siyi Liu (Monash University)",
+      "Barrett Ens (Monash University)",
+      "Nathan Arthur Semertzidis (Monash University)",
+      "Gun A. Lee (University of South Australia)",
+      "Florian ‘Floyd’ Mueller (Monash University)",
+      "Don Samitha Elvitigala (Monash University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194324"
+  },
+  {
+    "title": "GestureSock: Exploring toe gestures as alternative input method",
+    "category": "Interactivity",
+    "authors": [
+      "Vincent van Rheden",
+  "Florian ‘Floyd’ Mueller (Monash University)",
+  "Sasindu Abewickrema (Monash University)",
+  "Don Samitha Elvitigala (Monash University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194078"
+  },
+  {
+    "title": "Playing with Yourself: How Electrical Muscle Stimulation Can Turn Your Body Into A Playful Interface",
+    "category": "Video Showcase",
+    "authors": [
+      "Rakesh Patibanda (Monash University)",
+  "Aryan Saini (Monash University)",
+  "Xiang Li",
+  "Yuzheng Chen",
+  "Elise van den Hoven (University of Technology Sydney)",
+  "Florian ‘Floyd’ Mueller (Monash University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194454"
+  },
+  {
+    "title": "TeamVision : An AI-powered Learning Analytics System for Supporting Reflection in Team-based Healthcare Simulation",
+    "category": "Full Paper",
+    "authors": [
+      "Vanessa Echeverria (Monash University)",
+      "Linxuan Zhao (Monash University)",
+      "Riordan Alfredo (Monash University)",
+      "Mikaela Elizabeth Milesi (Monash University)",
+      "Yueqiao Jin (Monash University)",
+      "Sophie Abel (Macquarie University)",
+      "Jie Xiang Fan (Monash University)",
+      "Lixiang Yan (Monash University)",
+      "Samantha Dix (Monash University)",
+      "Rosie Wotherspoon (Monash University)",
+      "Xinyu Li (Monash University)",
+      "Hollie A Jaggard (Monash University)",
+      "Abra Osborne (Monash University)",
+      "Simon Buckingham Shum (University of Technology Sydney)",
+      "Dragan Gasevic (Monash University)",
+      "Roberto Martinez-Maldonado (Monash University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/189579"
+  },
+  {
+    "title": "Diaspora Dynamics: Methodological Innovations in Community-Based Research for Crisis Response",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Ananya Alagh (Monash University)",
+      "Bina Fernandez (University of Melbourne)",
+      "Lorenza Lazzati (University of Melbourne)",
+      "Louise Olliff (UNSW)",
+      "Delvin Varghese (Monash University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194317"
+  },
+  {
+    "title": "Priming at Scale: An Evaluation of Using AI to Generate Primes for Mobile Readers\n\n\n\n",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Namrata Srivastava (Monash University)",
+  "Jennifer Healey",
+  "Rajiv Jain",
+  "Guanli Liu (The University of Melbourne)",
+  "Ying Ma (The University of Melbourne)",
+  "Borano Llana",
+  "Dragan Gasevic (Monash University)",
+  "Tilman Dingler",
+  "Shaun Wallace"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194127"
+  },
+  {
+    "title": "Vision-Based Multimodal Interfaces: A Survey and Taxonomy for Enhanced Context-Aware System Design",
+    "category": "Full Paper",
+    "authors": [
+      "Yongquan 'Owen' Hu (University of New South Wales)",
+      "Xinya Gong",
+      "Jingyu Tang",
+      "Zhongyi Zhou",
+      "Shuning Zhang",
+      "Don Samitha Elvitigala (Monash University)",
+      "Florian ‘Floyd’ Mueller (Monash University)",
+      "Wen Hu (UNSW)",
+      "Aaron Quigley (CSIRO’s Data61)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188437"
+  },
+  {
+    "title": "Tablet as an enabler for Immersive Visceral Experiences",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Mario Flores Gonzalez (University of New South Wales)",
+      "Carlos Alfredo Tirado Cortes (University of Sydney)",
+      "Dennis Del Favero (University of New South Wales)"
+
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194175"
+  },
+  {
+    "title": "A Longitudinal Study on the Effects of Circadian Fatigue on Sound Source Identification and Localization using a Heads-Up Display",
+    "category": "Full Paper",
+    "authors": [
+      "Alexander G Minton (University of Technology Sydney)",
+      "Howe Yuan Zhu (University of Sydney, University of Technology Sydney)",
+      "Hsiang-Ting Chen (University of Adelaide)",
+      "Yu-Kai Wang (University of Technology Sydney)",
+      "Zhuoli Zhuang (University of Technology Sydney)",
+      "Gina Notaro",
+      "Raquel Galvan",
+      "James Allen",
+      "Matthias D Ziegler",
+      "Chin-Teng Lin (University of Technology Sydney)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188222"
+  },
+  {
+    "title": "AEGIS: Human Attention-based Explainable Guidance for Intelligent Vehicle Systems",
+    "category": "Full Paper",
+    "authors": [
+      "Zhuoli Zhuang (University of Technology Sydney)",
+      "Zhuoli Zhuang (University of Technology Sydney)",
+      "Cheng-You Lu (University of Technology Sydney)",
+      "Yu-Cheng Fred Chang (University of Technology Sydney)",
+      "Yu-Kai Wang (University of Technology Sydney)",
+      "Thomas Do (University of Technology Sydney)",
+      "Chin-Teng Lin (University of Technology Sydney)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/189368"
+  },
+  {
+    "title": "Designing for Transactional Moments: Features of Tools for Child-centred Speech Language Teletherapy",
+    "category": "Full Paper",
+    "authors": [
+      "Sarah Matthews (Queensland University of Technology)",
+      "Susan Danby (Queensland University of Technology)",
+      "Sophie Westwood (Queensland University of Technology)",
+      "Maryanne Theobald (Queensland University of Technology)",
+      "Peta Wyeth (University of Technology Sydney, Queensland University of Technology)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188467"
+  },
+  {
+    "title": "Communication with Individuals with Intellectual Disability Using Generic Images: Exploring Contexts, Requirements, Opportunities, and Challenges",
+    "category": "Case Studies",
+    "authors": [
+      "Alieh Hajizadeh Saffar (Queensland University of Technology)",
+      "Laurianne Sitbon (Queensland University of Technology)",
+      "Chris P Beaumont (Endeavour Foundation)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188683"
+  },
+  {
+    "title": "Decoding Driver Intention Cues: Exploring Non-verbal Communication for Human-Centered Automotive Interfaces",
+    "category": "Full Paper",
+    "authors": [
+      "Mohammad Faramarzian (Queensland University of Technology)",
+      "Jorge Pardo (Queensland University of Technology)",
+      "Ilan Mandel",
+      "Andry Rakotonirainy (Queensland University of Technology)",
+      "Wendy Ju",
+      "Ronald Schroeter (Queensland University of Technology)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188953"
+  },
+  {
+    "title": "Designing for Transactional Moments: Features of Tools for Child-centred Speech Language Teletherapy",
+    "category": "Full Paper",
+    "authors": [
+      "Sarah Matthews (Queensland University of Technology)",
+      "Susan Danby (Queensland University of Technology)",
+      "Sophie Westwood (Queensland University of Technology)",
+      "Maryanne Theobald (Queensland University of Technology)",
+      "Peta Wyeth (Queensland University of Technology)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188467"
+  },
+  {
+    "title": "Driven by Learning: Exploring Older Adults' Pedagogical Preferences in Highly Automated Vehicle Interactions",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Togtokhtur Batbold (Queensland University of Technology)",
+      "Alessandro Soro (Queensland University of Technology)",
+      "Ronald Schroeter (Queensland University of Technology)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194594"
+  },
+  {
+    "title": "Maintaining Long-Distance Relationships with (Mediocre) LLM-based Chatbots: A Collaborative Ethnographic Study",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Bernd Ploderer (Queensland University of Technology)",
+      "Tara Capel (Queensland University of Technology)",
+      "Nomin-Erdene Davaakhuu (Queensland University of Technology)",
+      "Nok Hei Tung (Queensland University of Technology)",
+      "Dili Mariya Maichal (Queensland University of Technology)",
+      "Aditya Krishna Kuzhiparambil (Queensland University of Technology)",
+      "Quang Hung Mai (Queensland University of Technology)",
+      "Wolfgang Reitberger"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194495"
+  },
+  {
+    "title": "\"Hello, Mr Tree\": Toying with Playful Conversational AI in the Early Years",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Kellie Vella (Queensland University of Technology)",
+      "Margot Brereton (Queensland University of Technology)",
+      "Madeleine Rose Dobson (Curtin University)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194165"
+  },
+  {
+    "title": "If It Doesn't Work for Me as a Researcher, Let Alone Others' : Understanding Wellbeing Through an Autoethnography of Wearable and Non-Wearable Technologies",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Sirinthip Roomkham (Queensland University of Technology)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194064"
+  },
+  {
+    "title": "Conversational Agents to Support People with Communication Disability: A Co-design Study with Speech Pathologists",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Fahad Ali Khan (Commonwealth Bank of Australia)",
+      "Yufeng Wu (University of Technology Sydney)",
+      "Dr Julia Dray (University of Technology Sydney)",
+      "Bronwyn Hemsley (University of Technology Sydney)",
+      "A. Baki Kocaballi (University of Technology Sydney)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194675"
+  },
+  {
+    "title": "Prevalence and Impacts of Image-Based Sexual Abuse Victimization: A Multinational Study",
+    "category": "Full Paper",
+    "authors": [
+      "Rebecca Umbach",
+      "Nicola Henry (RMIT university)",
+      "Gemma Beard (RMIT university)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188979"
+  },
+  {
+    "title": "Systemization of Knowledge (SoK): Goals, Coverage, and Evaluation in Cybersecurity and Privacy Games",
+    "category": "Full Paper",
+    "authors": [
+      "Yue Huang (CSIRO)",
+      "Lauren S. Ferro (CSIRO)",
+      "Sanchari Das",
+      "Marthie Grobler(CSIRO)",
+      "Georgia Psaroulis (CSIRO)",
+      "Jing Wei (CSIRO)",
+      "Helge Janicke (Cyber Security Cooperative Research Centre)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188944"
+  },
+
+  {
+    "title": "Privacy Meets Explainability: Managing Confidential Data and Transparency Policies in LLM-Empowered Science\n\n",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Yashothara Shanmugarasa (CSIRO)",
+      "Ming Ding (CSIRO)",
+      "Thierry Rakotoarivelo (CSIRO)",
+      "Shidong Pan (CSIRO)",
+      "Dehai Zhao (CSIRO)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194297"
+  },
+  {
+    "title": "Trust in AI-assistance improves detection of deepfakes",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Patrick Cooper (CSIRO)",
+      "Jessica Irons (CSIRO)",
+      "Huw Jarvis (Monash University)",
+      "Alyssa Lim (CSIRO)",
+      "Melanie McGrath (Monash University)",
+      "Andreas Duensen (CSIRO)"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194280"
+  },
+
+  {
+    "title": "Spatial Haptics: A Sensory Substitution Method for Distal Object Detection Using Tactile Cues",
+    "category": "Full Paper",
+    "authors": [
+      "Iddo Yehoshua Wald",
+      "Donald Degraen (University of Canterbury)",
+      "Amber Maimon",
+      "Jonas Keppel",
+      "Stefan Schneegass",
+      "Rainer Malaka"
+
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188453"
+  },
+
+  {
+    "title": "Motion-Coupled Asymmetric Vibration for Pseudo Force Rendering in Virtual Reality",
+    "category": "Full Paper",
+    "authors": [
+  "Nihar Sabnis",
+  "Maëlle Roche",
+  "Dennis Wittchen",
+  "Donald Degraen (University of Canterbury)",
+  "Paul Strohmeier"
+
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188933"
+  },
+
+  {
+    "title": "CollabJam: Studying Collaborative Haptic Experience Design for On-Body Vibrotactile Patterns",
+    "category": "Full Paper",
+    "authors": [
+      "Dennis Wittchen",
+      "Alexander Ramian",
+      "Nihar Sabnis",
+      "Richard Böhme",
+      "Christopher Chlebowski",
+      "Georg Freitag",
+      "Bruno Fruchard",
+      "Donald Degraen (University of Canterbury)"
+
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/188960"
+  },
+
+
+  {
+    "title": "TactStyle: Generating Tactile Textures with Generative AI for Digital Fabrication",
+    "category": "Full Paper",
+    "authors": [
+      "Faraz Faruqi",
+      "Maxine Perroni-Scharf",
+      "Jaskaran Singh Walia",
+      "Yunyi Zhu",
+      "Shuyue Feng",
+      "Donald Degraen (University of Canterburyny)",
+      "Stefanie Mueller"
+
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/189573"
+  },
+
+  {
+    "title": "Demonstration of TactStyle: Generating Tactile Textures with Generative AI for Digital Fabrication",
+    "category": "Interactivity",
+    "authors": [
+      "Faraz Faruqi",
+      "Maxine Perroni-Scharf",
+      "Jaskaran Singh Walia",
+      "Yunyi Zhu",
+      "Shuyue Feng",
+      "Donald Degraen (University of Canterburyny)",
+      "Stefanie Mueller"
+
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194190"
+  },
+
+  {
+    "title": "Demonstrating Spatial Haptics: A Sensory Substitution Method for Distal Object Detection Using Tactile Cues",
+    "category": "Interactivity",
+    "authors": [
+      "Iddo Yehoshua Wald",
+      "Donald Degraen (University of Canterbury)",
+      "Amber Maimon",
+      "Jonas Keppel",
+      "Stefan Schneegass",
+      "Rainer Malaka"
+
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194752"
+  },
+
+  {
+    "title": "The Impact of Bike-Based Controllers and Adaptive Feedback on Immersion and Enjoyment in a Virtual Reality Cycling Exergame",
+    "category": "Late-Breaking Work",
+    "authors": [
+      "Jonas Keppel",
+      "Marvin Strauss",
+      "Shuoheng Zhang",
+      "Markus Stroehnisch",
+      "Stefan Lewin",
+      "Uwe Gruenefeld",
+      "Donald Degraen (University of Canterbury)",
+      "David Goedicke",
+      "Andrii Matviienko",
+      "Stefan Schneegass"
+    ],
+    "link": "https://programs.sigchi.org/chi/2025/program/content/194528"
+  }
+
+
+
+
+
+
+
+]
