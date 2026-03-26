@@ -1,0 +1,34 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Generated schema for publications.json",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "title": { "type": "string" },
+      "category": { "type": "string" },
+      "sessionTime": { "type": "string" },
+      "authors": {
+        "type": "array",
+        "items": { "type": "string" }
+      },
+      "link": { "type": "string" },
+
+      "raw": {
+        "type": "object",
+        "properties": {
+          "affiliation": { "type": "string" },
+          "item_id": { "type": "string" },
+          "item_type": { "type": "string" },
+          "title": { "type": "string" },
+          "item_url": { "type": "string" },
+          "authors": { "type": "string" },
+          "authors_with_affiliations": { "type": "string" },
+          "Awards": { "type": ["string", "null"] }
+        },
+        "additionalProperties": true
+      }
+    },
+    "required": ["title", "category", "authors", "link"]
+  }
+}
