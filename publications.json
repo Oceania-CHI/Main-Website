@@ -347,6 +347,33 @@
     }
   },
   {
+    "title": "Envisioning Audio Augmented Reality in Everyday Life",
+    "category": "Papers",
+    "sessionTime": "",
+    "authors": [
+      "Tram Thi Minh Tran",
+      "Soojeong Yoo",
+      "Oliver Weidlich",
+      "Yidan Cao",
+      "Xinyan Yu",
+      "Xin Cheng",
+      "Yin Ye",
+      "Natalia Gulbransen-Diaz",
+      "Callum Parker"
+    ],
+    "link": "https://programs.sigchi.org/chi/2026/program/content/223209",
+    "raw": {
+      "affiliation": "Contxtual",
+      "item_id": "223209",
+      "item_type": "Papers",
+      "title": "Envisioning Audio Augmented Reality in Everyday Life",
+      "item_url": "https://programs.sigchi.org/chi/2026/program/content/223209",
+      "authors": "Tram Thi Minh Tran , Soojeong Yoo , Oliver Weidlich , Yidan Cao , Xinyan Yu , Xin Cheng , Yin Ye , Natalia Gulbransen-Diaz , Callum Parker",
+      "authors_with_affiliations": "",
+      "Awards": ""
+    }
+  },
+  {
     "title": "Balancing Attention Support for Early-learners (BASE) in Digital Technology Interactions: A Framework for Design and Use",
     "category": "Papers",
     "sessionTime": "",
@@ -561,6 +588,89 @@
       "item_url": "https://programs.sigchi.org/chi/2026/program/content/223322",
       "authors": "Mingming Wang , Henry Been-Lirn Duh , Xiaoyu Zhang , Yihan Mei , Haohan Wang , Haiyan Jiang , Zhibin Zhou",
       "authors_with_affiliations": "",
+      "Awards": ""
+    }
+  },
+  {
+    "title": "The ORBIT India Dataset: Understanding the Challenges of Collecting a Disability-First AI Dataset in Low-Resource Environments",
+    "category": "Papers",
+    "sessionTime": "",
+    "authors": [
+      "Gesu India",
+      "Martin Grayson",
+      "Cecily Morrison",
+      "Daniela Massiceti",
+      "Simon Robinson",
+      "Jennifer Pearson",
+      "Matt Jones"
+    ],
+    "link": "https://programs.sigchi.org/chi/2026/program/content/222651",
+    "raw": {
+      "affiliation": "Microsoft Research",
+      "item_id": "222651",
+      "item_type": "Papers",
+      "title": "The ORBIT India Dataset: Understanding the Challenges of Collecting a Disability-First AI Dataset in Low-Resource Environments",
+      "item_url": "https://programs.sigchi.org/chi/2026/program/content/222651",
+      "authors": "Gesu India , Martin Grayson , Cecily Morrison , Daniela Massiceti , Simon Robinson , Jennifer Pearson , Matt Jones",
+      "authors_with_affiliations": "",
+      "Awards": ""
+    }
+  },
+  {
+    "title": "Engaging Communities Meaningfully in Defining Disability Representation for AI Image Generation",
+    "category": "Papers",
+    "sessionTime": "",
+    "authors": [
+      "Anja Thieme",
+      "Rita Faia Marques",
+      "Martin Grayson",
+      "Sidhika Balachandar",
+      "Cameron Tyler Cassidy",
+      "Madiha Zahrah Choksi",
+      "Camilla Longden",
+      "Reeda Shimaz Huda",
+      "Nicholas Ileve Kalovwe",
+      "Christina Mallon",
+      "Courtney Mansperger",
+      "Daniela Massiceti",
+      "Bhaskar Mitra",
+      "Ruth Mueni Nzioka",
+      "Ioana Tanase",
+      "Yuzhe You",
+      "Cecily Morrison"
+    ],
+    "link": "https://programs.sigchi.org/chi/2026/program/content/223071",
+    "raw": {
+      "affiliation": "Microsoft Research",
+      "item_id": "223071",
+      "item_type": "Papers",
+      "title": "Engaging Communities Meaningfully in Defining Disability Representation for AI Image Generation",
+      "item_url": "https://programs.sigchi.org/chi/2026/program/content/223071",
+      "authors": "Anja Thieme , Rita Faia Marques , Martin Grayson , Sidhika Balachandar , Cameron Tyler Cassidy , Madiha Zahrah Choksi , Camilla Longden , Reeda Shimaz Huda , Nicholas Ileve Kalovwe , Christina Mallon , Courtney Mansperger , Daniela Massiceti , Bhaskar Mitra , Ruth Mueni Nzioka , Ioana Tanase , Yuzhe You , Cecily Morrison",
+      "authors_with_affiliations": "",
+      "Awards": ""
+    }
+  },
+  {
+    "title": "triMorph: Bridging Shape-Change and Cross-Sensory Correspondences for Haptic Interaction",
+    "category": "Papers",
+    "sessionTime": "",
+    "authors": [
+      "Zhuzhi FAN",
+      "Min Susan Li",
+      "Jialin Deng",
+      "Amy Ingold",
+      "Oussama Metatla"
+    ],
+    "link": "https://programs.sigchi.org/chi/2026/program/content/222842",
+    "raw": {
+      "affiliation": "Monash University",
+      "item_id": "222842",
+      "item_type": "Papers",
+      "title": "triMorph: Bridging Shape-Change and Cross-Sensory Correspondences for Haptic Interaction",
+      "item_url": "https://programs.sigchi.org/chi/2026/program/content/222842",
+      "authors": "Zhuzhi FAN , Min Susan Li , Jialin Deng , Amy Ingold , Oussama Metatla",
+      "authors_with_affiliations": "Jialin Deng",
       "Awards": ""
     }
   },
