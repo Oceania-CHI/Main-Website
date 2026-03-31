@@ -66,14 +66,15 @@
               placeholder="Search by title, author or affliation..." />
           </div>
           <div class="col-md-3">
+            <!-- 'SMP: Roundtable', 'Meet-up', 'Workshops', 'Interactivity', 'Journals', 'Papers' -->
             <select id="filterCategory" class="form-control">
               <option value="">All Categories</option>
-              <option value="Full Paper">Full Paper</option>
-              <option value="Workshop">Workshop</option>
-              <option value="Case Studies">Case Studies</option>
-              <option value="Video Showcase">Video Showcase</option>
+              <option value="Papers">Papers</option>
+              <option value="Workshops">Workshops</option>
+              <option value="Journals">Journals</option>
               <option value="Interactivity">Interactivity</option>
-              <option value="Late-Breaking Work">Late-Breaking Work</option>
+              <option value="Meet-up">Interactivity</option>
+              <option value="SMP: Roundtable">SMP: Roundtable</option>
             </select>
           </div>
         </div>
@@ -179,7 +180,7 @@
       });
 
       // Define desired order
-      const categoryOrder = ['Full Paper', 'Late-Breaking Work'];
+      const categoryOrder = ['Papers'];
 
       // Render in order
       categoryOrder.forEach(category => {
