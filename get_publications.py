@@ -160,13 +160,13 @@ def main():
     converter = PublicationConverter(CSV_FILE, SCHEMA_PATH)
 
     # Convert
-    # converter.convert()
+    converter.convert()
 
     # Save JSON
-    # converter.to_json(JSON_FILE)
+    converter.to_json(JSON_FILE)
 
     # Load JSON
-    converter.load_json(JSON_FILE)
+    # converter.load_json(JSON_FILE)
 
     # Summaries
     # print("By category:", converter.count_by_category())
